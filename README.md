@@ -1,5 +1,5 @@
-# Click to Call
-A Chrome/Firefox extension that enables 'Click to Call' by converting phone numbers into clickable hyperlinks.
+# Click2Call
+A Firefox extension that enables 'Click2Call' by converting phone numbers into clickable hyperlinks.
 
 ## Downloads
-Firefox: <https://addons.mozilla.org/firefox/addon/phone-links>
+Firefox: <https://addons.mozilla.org/firefox/addon/Click2Call>
